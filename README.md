@@ -3,6 +3,7 @@
 
 you need socket and ipaddress libraries installed:</h3>
 ```pip install scoket```
-<br>```pip install ipaddress```
+<br>
+```pip install ipaddress```
 <h2>Discord:<h/h2>
   <h3>Precious#1337</h3>
